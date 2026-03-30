@@ -1,6 +1,4 @@
-# GroupMeeting
-
-# Chao's Group Weekly Meetings
+# Chao's Group Weekly GroupMeetings
 
 本仓库用于存放 **Chao's Group** 每周组会分享资料。
 
